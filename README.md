@@ -1,8 +1,8 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe - https://stirring-halva-43b3f7.netlify.app/
 
 ![Tic-Tac-Toe Demo](demo.gif)
-
-## Description
+# Play TIC_TAC_TOE here - https://stirring-halva-43b3f7.netlify.app/
+## Description 
 
 Tic-Tac-Toe is a classic game that can be played on mobile devices or computers. It is built using vanilla JavaScript, providing a simple and enjoyable gaming experience.
 
